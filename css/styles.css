@@ -1,10 +1,22 @@
 
 
 .column {
-  width: 300px;
+  width: 30%;
   float: left;
 }
 
 img {
   width: 100%;
+}
+
+.before{
+  background-color: red;
+}
+
+.during{
+  background-color: yellow;
+}
+
+.after{
+  background:skyblue;
 }
